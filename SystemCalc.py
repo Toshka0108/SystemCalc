@@ -12,7 +12,7 @@ class Matrix:
 		return self.mas[index[0] * self.columns + index[1]]
 
 class equations:
-    Amat = []
+    Amat  = []
     Bmat = []
     Xmat = []
     AmatHeight = 0
